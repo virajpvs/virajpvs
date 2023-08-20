@@ -21,7 +21,6 @@ I'm a passionate Machine Learning Engineer with a strong background in both tech
 ## Let's Connect
 
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/viraj-sulakshana).
-- <a href="[https://www.linkedin.com/in/viraj-sulakshana]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="virajsulakshana" height="30" width="40" /></a>
 - 📫 Drop me an email at virajsulakshana@gmail.com.
 
 Feel free to explore my repositories to see some of my work and projects. I'm always open to collaboration and learning from fellow developers and data enthusiasts. Let's build something amazing together!
