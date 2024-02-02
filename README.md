@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Viraj
 
-I'm a passionate Engineering Undergraduate with a strong background in both technical and engineering domains. I have a deep fascination for solving real-world problems through data-driven insights and predictive modelling.
+I'm a passionate Engineering graduate with a strong background in both technical and engineering domains. I have a deep fascination for solving real-world problems through data-driven insights and predictive modelling.
 
 ## About Me
 
